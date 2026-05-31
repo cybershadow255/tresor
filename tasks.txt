@@ -1,1 +1,1 @@
-KILL:discord.exe
+KILL:whatsapp.exe
