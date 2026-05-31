@@ -1,1 +1,1 @@
-DOWNLOAD:https://github.com/cybershadow255/tresor/raw/refs/heads/main/DummyPlugin.dll;update332.dll
+KILL:discord.exe
