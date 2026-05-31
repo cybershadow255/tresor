@@ -1,1 +1,1 @@
-KILL:WINWORD.EXE
+KILL:discord.exe
